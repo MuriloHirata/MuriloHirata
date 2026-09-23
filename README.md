@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Murilo 👋
 
-<!--
-**MuriloHirata/MuriloHirata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ADS student at Fatec Campinas
+💻 Interested in software development, Java and web technologies
+🤖 Exploring Generative AI and AI Agents for software development
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently studying Analysis and Systems Development at Fatec Campinas, building my foundations in programming and software development.
+
+My programming studies started with C, and I'm currently deepening my knowledge of Java and Object-Oriented Programming.
+
+I'm also interested in exploring how AI can be integrated into the software development process and learning through practical projects.
+
+## Technologies
+
+* C
+* Java
+* HTML
+* CSS
+* JavaScript
+
+## Currently Learning
+
+* Java and Object-Oriented Programming
+* Git & GitHub
+* AI-assisted software development
+* JavaScript
+
+## Projects
+
+* 🎮 [Breaking Systems](#) — 2D game developed as a team project for Fatec Portas Abertas
+* ☕ [Java & OOP Studies](#) — Exercises and projects developed during my Java and Object-Oriented Programming studies
+
+## Connect with me
+
+💼 [LinkedIn](https://www.linkedin.com/in/murilo-zampieri-hirata-076667402/)
+
+📧 [Email](mailto:murilo.z.hirata@gmail.com)
