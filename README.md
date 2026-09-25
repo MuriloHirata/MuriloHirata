@@ -29,10 +29,10 @@ I'm also interested in exploring how AI can be integrated into the software deve
 
 ## Projects
 
-* 🎮 [Breaking-Systems](#) — 2D game developed as a team project for Fatec Portas Abertas
+* 🎮 [Breaking-Systems](https://github.com/MuriloHirata/Breaking-Systems) — 2D game developed as a team project for Fatec Portas Abertas
 
 ## Connect with me
 
 💼 [LinkedIn](https://www.linkedin.com/in/murilo-zampieri-hirata-076667402/)
 
-📧 [Email](mailto:murilo.z.hirata@gmail.com)
+📧 Email: murilo.z.hirata@gmail.com
