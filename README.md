@@ -29,8 +29,7 @@ I'm also interested in exploring how AI can be integrated into the software deve
 
 ## Projects
 
-* 🎮 [Breaking Systems](#) — 2D game developed as a team project for Fatec Portas Abertas
-* ☕ [Java & OOP Studies](#) — Exercises and projects developed during my Java and Object-Oriented Programming studies
+* 🎮 [Breaking-Systems](#) — 2D game developed as a team project for Fatec Portas Abertas
 
 ## Connect with me
 
